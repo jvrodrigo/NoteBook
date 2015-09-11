@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteBook</string>
+    
+    <string name="titleNewNote">New Note</string>
+    
+    <string name="titlePrefs">Preferences</string>
+    <string name="prefsNewNote">Create new note</string>
+    
+    <string name="titleDrafts">Drafts</string>
+    <string name="titleDraftsView">View Draft</string>
+    <string name="prefsDrafts">Drafts</string>
+	<string name="autoSaveOn">Auto-Save On</string>
+	<string name="msgDeleteDraft">You want to delete the draft </string>
+    <string name="okDeleteDraft">OK, the draft has been removed</string>
+    <string name="errorDeleteDraft">Error, can´t deleted the draft</string>
+    <string name="errorSaveDraft">Error, the draft not saved</string>
+    <string name="saveDraft">Want to save this draft as a note?</string>
+    
+    <string name="summaryDeleteAllNotes">Click to delete all notes and drafts</string>
+	<string name="titleDeleteAllNotes">Delete All</string>
+	<string name="msgDeleteAllNotes">You want to delete all notes and drafts?</string>
+	<string name="okDeleteAll">OK, all notes and drafts out</string>
+	<string name="errorDeleteAll">Error, an error has occurred</string>
+	
+	<string name="titleAutoSaveService">Enable Auto Save</string>
+	<string name="summaryAutoSaveService">Click to activate the Auto Save</string>
+	<string name="titleFontSize">Font size</string>
+    <string name="summaryFontSize">Change the font size</string>
+    <string name="fontSmall">Small</string>
+    <string name="fontNormal">Normal</string>
+    <string name="fontLarge">Large</string>
+	<string name="fontXLarge">Maximum</string>
+    
+    <string name="titleFontColor">Font Color</string>
+	<string name="summaryFontColor">Change font color</string>
+		
+	<string name="titleFontStyle">Font style</string>
+	<string name="summaryFontStyle">Change font style</string>
+		
+	<string name="titleBackgroundColor">Background color</string>
+	<string name="summaryBackgroundColor">Change the background color</string>
+	
+	<string name="titleViewNote">View Note</string>
+	
+	<string name="titleMyNotes">My Notes</string>
+	
+	<string name="buttonPublish">Publish</string>
+	<string name="errorPublishNote">Error, the note has not been published</string>
+	<string name="okPublishNote">OK, the note has been published</string>
+	
+	<string name="titleEditNote">Edit Note</string>
+	<string name="msgEditNote">¿Want to edit the note</string>
+	<string name="buttonEdit">Edit</string>
+	<string name="title">Title</string>
+	<string name="note">Note</string>
+	<string name="OkEdit">OK, the note has been edited</string>
+	<string name="ErrorEdit">Error, the note has not been updated</string>
+	
+	<string name="titleDeleteNote">Delete Note</string>
+	<string name="msgDeleteNote">Want to delete the note</string>
+	<string name="buttonDelete">Delete</string>
+	<string name="OkDelete">OK, the note was deleted</string>
+	<string name="ErrorDelete">Error, no note was deleted</string>
+
+	<string name="buttonSave">Save</string>
+	<string name="saveNote">Want to save this note?</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="exit">Exit</string>
+	<string name="exitApplication">Exiting the Application</string>
+	<string name="saveOk">OK, the note has been saved</string>
+	<string name="saveError">Error, the note is not saved</string>
+	<string name="noSave">You have not saved note</string>
+	<!-- Edit Text -->
+	<string name="titleInput">Enter the title</string>
+	<string name="txtInput">Write here&#8230;</string>
+	<string name="toastInputTitle">No saved, the note doesn`t have title</string>
+	<string name="toastInputTxt">No saved, the note has no text</string>	
+	<string name="created">Created</string>
+	
+	<string name="menuCopyToClipBoard">Copy</string>
+	<string name="selectAll">Select all</string>
+	
+	<string name="titleQMenu">Action</string>
+	<string name="see">View</string>
+	<string name="edit">Edit</string>
+	<string name="delete">Delete</string>
+</resources>

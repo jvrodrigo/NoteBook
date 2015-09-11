@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<string-array name="fontSize">
+        <item name="12" >Pequeño</item>
+        <item name="16">Normal</item>
+        <item name="20">Grande</item>
+        <item name="24">Máximo</item>
+	</string-array>
+	<string-array name="valuesFontSize">
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+	</string-array>
+	<string-array name="fontColor">
+        <item name="black">Negro</item>
+        <item name="white">Blanco</item>
+        <item name="blue">Azul</item>
+        <item name="green">Verde</item>
+        <item name="gray">Gris</item>
+	</string-array>
+	<string-array name="valuesFontColor">
+	    <item >BLACK</item>
+	    <item >WHITE</item>
+	    <item >BLUE</item>
+	    <item >GREEN</item>
+	    <item >GRAY</item>
+	</string-array>
+	<string-array name="backgroundColor">
+        <item name="black">Negro</item>
+        <item name="white">Blanco</item>
+        <item name="blue">Azul</item>
+        <item name="green">Verde</item>
+        <item name="gray">Gris</item>
+	</string-array>
+	<string-array name="valuesBackgroundColor">
+        <item >BLACK</item>
+        <item >WHITE</item>
+        <item >BLUE</item>
+        <item >GREEN</item>
+        <item >GRAY</item>
+	</string-array>
+	<string-array name="fontStyle">
+        <item name="default">Default</item>
+        <item name="monospace">MonoSpace</item>
+        <item name="sans_serif">Sans-Serif</item>
+        <item name="serif">Serif</item>
+	</string-array>
+		<string-array name="valuesFontStyle">
+	    <item >default</item>
+	    <item >monospace</item>
+	    <item >sans_serif</item>
+	    <item >serif</item>
+	</string-array>
+</resources>

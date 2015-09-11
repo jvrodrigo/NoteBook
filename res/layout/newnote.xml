@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/layoutNewNote"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	tools:context=".NoteBookApplication" >
+    <!-- Title New Note TextView -->
+   	<TextView
+       	android:id="@+id/titleActivity"
+       	android:text="@string/titleNewNote"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:padding="8dp"
+	/>
+   	<!-- Text Counter TextView -->
+	<TextView
+	    android:id="@+id/textCount"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="right"
+		android:text=""
+		android:paddingRight="14dp"
+	/>
+	<EditText
+		android:id="@+id/txtNote"
+		android:layout_width="fill_parent"
+		android:layout_height="0dp"
+		android:layout_weight="1"
+		android:text=""
+		android:gravity="top|left"
+		android:inputType="text|textMultiLine"
+		android:padding="14dp"
+		android:hint="@string/txtInput">
+	</EditText>
+	<Button
+	    android:id="@+id/buttonSave"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:text="@string/buttonSave"
+		android:textSize="20sp"
+		android:drawableRight="@android:drawable/ic_menu_save"
+	/>
+</LinearLayout>

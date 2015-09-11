@@ -1,0 +1,3 @@
+nombre de la base de datos: u698943981_nbook
+usuario: u698943981_nbook
+contraseña: 456rtyfghvbn

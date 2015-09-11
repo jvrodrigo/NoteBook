@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteBook</string>
+    
+    <string name="titleNewNote">Nueva Nota</string>
+    
+    <string name="titlePrefs">Preferencias</string>
+    <string name="prefsNewNote">Crear una nota nueva</string>
+    
+    <string name="titleDrafts">Borradores</string>
+    <string name="titleDraftsView">Ver Borrador</string>
+    <string name="prefsDrafts">Borradores</string>
+	<string name="autoSaveOn">Auto-guardado Activado</string>
+	<string name="msgDeleteDraft">¿Quieres eliminar el borrador </string>
+    <string name="okDeleteDraft">OK, se ha eliminado el borrador</string>
+    <string name="errorDeleteDraft">Error, no se ha eliminado el borrador</string>
+    <string name="errorSaveDraft">Error, el borrador no se ha guardado</string>
+    <string name="saveDraft">¿Quieres guardar este borrador como una nota?</string>
+    
+    <string name="summaryDeleteAllNotes">Pulsa para eliminar todas las notas y borradores</string>
+	<string name="titleDeleteAllNotes">Eliminar todo</string>
+	<string name="msgDeleteAllNotes">¿Quieres eliminar todas las notas y borradores?</string>
+	<string name="okDeleteAll">OK, todas las notas y borradores eliminados</string>
+	<string name="errorDeleteAll">Error, ha ocurrido un error</string>
+	
+	<string name="titleAutoSaveService">Activar el auto guardado</string>
+	<string name="summaryAutoSaveService">Pulsa para activar el auto guardado</string>
+	<string name="titleFontSize">Tamaño de la fuente</string>
+    <string name="summaryFontSize">Cambia el tamaño de la fuente</string>
+    <string name="fontSmall">Pequeña</string>
+    <string name="fontNormal">Normal</string>
+    <string name="fontLarge">Grande</string>
+	<string name="fontXLarge">Máximo</string>
+    
+    <string name="titleFontColor">Color de la fuente</string>
+	<string name="summaryFontColor">Cambia el color de la fuente</string>
+		
+	<string name="titleFontStyle">Tipo de fuente</string>
+	<string name="summaryFontStyle">Cambia el tipo de la fuente</string>
+		
+	<string name="titleBackgroundColor">Color del fondo</string>
+	<string name="summaryBackgroundColor">Cambia el color del fondo</string>
+	
+	<string name="titleViewNote">Ver Nota</string>
+	
+	<string name="titleMyNotes">Mis notas</string>
+	
+	<string name="buttonPublish">Publicar</string>
+	<string name="errorPublishNote">Error, la nota no se ha publicado</string>
+	<string name="okPublishNote">OK, la nota se ha publicado</string>
+	
+	<string name="titleEditNote">Editar Nota</string>
+	<string name="msgEditNote">¿Quiéres editar la nota</string>
+	<string name="buttonEdit">Editar</string>
+	<string name="title">Título</string>
+	<string name="note">Nota</string>
+	<string name="OkEdit">OK, la nota ha sido editada</string>
+	<string name="ErrorEdit">Error, la nota no ha sido editada</string>
+	
+	<string name="titleDeleteNote">Eliminar Nota</string>
+	<string name="msgDeleteNote">¿Quiéres eliminar la nota</string>
+	<string name="buttonDelete">Eliminar</string>
+	<string name="OkDelete">OK, la nota ha sido eliminada</string>
+	<string name="ErrorDelete">Error, la nota no ha sido eliminada</string>
+
+	<string name="buttonSave">Guardar</string>
+	<string name="saveNote">¿Quieres guardar esta nota?</string>
+	<string name="yes">Si</string>
+	<string name="no">No</string>
+	<string name="exit">Salir</string>
+	<string name="exitApplication">Salir de la Aplicación</string>
+	<string name="saveOk">OK, la nota se ha guardado</string>
+	<string name="saveError">ERROR, la nota no se ha guardado</string>
+	<string name="noSave">No has guardado la nota</string>
+	<!-- Edit Text -->
+	<string name="titleInput">Introduce el título</string>
+	<string name="txtInput">Escribe aquí&#8230;</string>
+	<string name="toastInputTitle">No guardado, la nota no tiene titulo</string>
+	<string name="toastInputTxt">No guardado, la nota no tiene texto</string>	
+	<string name="created">Creado</string>
+	
+	<string name="menuCopyToClipBoard">Copiar</string>
+	<string name="selectAll">Seleccionar todo</string>
+	
+	<string name="titleQMenu">Acción</string>
+	<string name="see">Ver</string>
+	<string name="edit">Editar</string>
+	<string name="delete">Eliminar</string>
+</resources>

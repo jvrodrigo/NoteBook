@@ -1,0 +1,12 @@
+CREATE DATABASE IF NOT EXISTS notebook;
+
+USE notebook;
+
+CREATE TABLE POST(
+	id INT(10) unsigned NOT NULL AUTO_INCREMENT,
+	title TEXT COLLATE latin1_spanish_ci NULL,
+	text TEXT COLLATE latin1_spanish_ci NULL,
+	created DATETIME NOT NULL,
+	PRIMARY KEY (id)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci 
+AUTO_INCREMENT=1;
