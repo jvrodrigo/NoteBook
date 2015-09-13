@@ -11,8 +11,8 @@ echo '<!DOCTYPE html>
 <?php
 echo '<h1>Bienvenido al servicio SOAP para Android: Plataformas Software Moviles</h1><span>Por: Debora Maura y Jose Vicente Rodrigo</span>';
 echo '<p><a href="NoteBook.apk">Descargate el apk de la aplicación</a></p>';
-$conexion = mysql_connect('mysql.hostinger.es','u698943981_nbook','456rtyfghvbn');
-$ok = mysql_select_db('u698943981_nbook',$conexion);
+$conexion = mysql_connect('mysql.default_host','user','password');
+$ok = mysql_select_db('data_base_name',$conexion);
 $consulta = 'SELECT title,text,created FROM POSTS ORDER BY created DESC;';
 $response = mysql_query($consulta);
 
